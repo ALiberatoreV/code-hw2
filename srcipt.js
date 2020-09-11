@@ -3,7 +3,7 @@ var lastName = "Liberatore";
 var age = 21;
 alert("My name is " + firstName + lastName);
 alert("I am " + age + " years old");
-console.log("doing makes learning fun best class yet");
+console.log("This is my best class yet");
  if(age > 21 ){
     alert("I am legally able to drink in the states.")
   } else if(age == 21){
